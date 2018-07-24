@@ -103,6 +103,6 @@ h3.titulo__segundario{
 	font-size: 1.5em;
 	font-weight: bold;
 }
-.sabores-frutales__imagen img{
+img.sabores-frutales__imagen{
 	height: 100px;
 }
